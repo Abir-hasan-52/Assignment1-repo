@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: whitesmoke; */
+}
+/* shared style */
+body{
+    font-family: "Open Sans", serif;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: whitesmoke;
+
+} 
+section{
+    margin-bottom: 60px;
+}
+h2{
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    
+}
+.description{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+margin: 30px 0px;
+}
+.title{
+    color: rgba(14, 14, 14, 0.8);
+font-size: 20px;
+font-weight: 700px;
+margin: 12px 0px;
+}
+
+/* nav style */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav-title{
+    color: rgb(14, 14, 14);
+    font-size: 32px;
+    font-weight: 700px;
+}
+.btn-signin{
+    background-color: white;
+    border: 1px solid rgb(0, 106, 80);
+    border-radius: 8px;
+    color: rgb(0, 106, 80);
+    font-size: 18px;
+    font-weight: 600px;
+    padding: 8px 16px;
+}
+
+/* banner style */
+.banner{
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    margin-top: 20px;
+    
+
+}
+.banner-contain{
+    display: flex;
+    
+    
+}
+.banner-description{
+    margin: 80px;
+}
+.banner-2-0{
+color: rgba(14, 14, 14, 0.5);
+font-size: 24px;
+font-weight: 500px;
+
+}
+.banner-title{
+color: rgb(14, 14, 14);
+font-size: 56px;
+font-weight: 700;
+}
+.btn-banner{
+border-radius: 8px;
+background: rgb(0, 106, 80);
+color: rgb(255, 255, 255);
+font-size: 18px;
+font-weight: 600;
+padding: 17px 34px 17px 34px;
+}
+.banner-img{
+    padding: 40px;
+}
+
+/* pillars style */
+.pillars-contain{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.pillars-main{
+    padding: 24px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+margin-right: 20px;
+
+}
+/* vision style */
+.vision-contain{
+    display: flex;
+
+}
+.btn-learn-more{
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600px;
+    padding: 11px 20px 11px 20px;
+}
+.vision-main{
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 30px;
+    margin-right:20px ;
+}
+.challenges-1{
+    /* box-sizing: border-box; */
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+position:relative;
+    top: 10px;
+    padding: 40px 24px 40px 24px;
+}
+.challenges-img{
+    position: absolute;
+}
+h5{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+}
+.challenges-dis{
+    margin: 10px;
+}
+
+
