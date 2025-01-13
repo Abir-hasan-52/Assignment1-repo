@@ -131,8 +131,9 @@ margin-right: 20px;
     padding: 30px;
     margin-right:20px ;
 }
+/* challenges style */
 .challenges-1{
-    /* box-sizing: border-box; */
+    
 border: 1px solid rgba(14, 14, 14, 0.15);
 border-radius: 16px;
 
@@ -152,5 +153,43 @@ h5{
 .challenges-dis{
     margin: 10px;
 }
+/* news style */
+.news-contain{
+    display: flex;
+    border-radius: 24px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
 
+}
+.news-img-1{
+    border-radius: 24px;
+    
+}
+.news-part-1{
+    margin-left: 20px;
+}
+.news-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 32px;
+    font-weight: 700px;
+    margin: 12px 0px;
+}
+.news-img-2{
+    margin: 12px 0px;
+}
+.date{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
 
+}  
+
+.time{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+}
+
+.news-contains{
+    display: flex;
+}
