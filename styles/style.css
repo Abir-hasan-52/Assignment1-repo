@@ -204,6 +204,10 @@ font-weight: 400;
     background: rgb(255, 255, 255);
     margin:24px;
     padding: 40px;
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
 
 }
 .input{
@@ -268,26 +272,35 @@ padding: 17px 34px 17px 34px;
 button:hover{
     color: aqua;
     border-color:antiquewhite;
+   
 }
 .btn-signin:hover{
 color: black;
 border-color:antiquewhite;
+background-color: #e0f7fa;
+
 }
 .btn-learn-more:hover{
     color: black;
+    background-color: #e0f7fa;
+    transform: translateY(-5px);
 }
 .btn-done-now:hover{
     color:black;
+    background-color: #e0f7fa;
 }
 .option:hover{
     color:darkgreen;
+    background-color: #e0f7fa;
 
 }
 .input:hover{
     border-color:antiquewhite; 
+    background-color: #e0f7fa;
 
 }
 .email:hover{
     border-color:antiquewhite; 
+    background-color: #e0f7fa;
 
 }
