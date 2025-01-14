@@ -264,3 +264,30 @@ background: rgb(0, 106, 80);
 padding: 17px 34px 17px 34px;
 
 }
+/* hover style */
+button:hover{
+    color: aqua;
+    border-color:antiquewhite;
+}
+.btn-signin:hover{
+color: black;
+border-color:antiquewhite;
+}
+.btn-learn-more:hover{
+    color: black;
+}
+.btn-done-now:hover{
+    color:black;
+}
+.option:hover{
+    color:darkgreen;
+
+}
+.input:hover{
+    border-color:antiquewhite; 
+
+}
+.email:hover{
+    border-color:antiquewhite; 
+
+}
