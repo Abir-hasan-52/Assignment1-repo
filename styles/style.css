@@ -272,12 +272,15 @@ padding: 17px 34px 17px 34px;
 button:hover{
     color: aqua;
     border-color:antiquewhite;
+    background-color: #e0f7fa;
+    transform: translateY(-5px);
    
 }
 .btn-signin:hover{
 color: black;
 border-color:antiquewhite;
 background-color: #e0f7fa;
+transform: translateY(-5px);
 
 }
 .btn-learn-more:hover{
@@ -288,19 +291,23 @@ background-color: #e0f7fa;
 .btn-done-now:hover{
     color:black;
     background-color: #e0f7fa;
+    transform: translateY(-5px);
 }
 .option:hover{
     color:darkgreen;
     background-color: #e0f7fa;
+    transform: translateY(-5px);
 
 }
 .input:hover{
     border-color:antiquewhite; 
     background-color: #e0f7fa;
+    transform: translateY(-5px);
 
 }
 .email:hover{
     border-color:antiquewhite; 
     background-color: #e0f7fa;
+    transform: translateY(-5px);
 
 }
